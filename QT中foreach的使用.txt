@@ -1,0 +1,43 @@
+QT中foreach的使用
+在标准C++中，并没有foreach关键字。
+
+但是在QT中，可以使用这一个关键字，其主要原因是QT自己增加了这一个关键字，就像slots和signals、emit等一样。增加的foreach关键字在编译时会进行预处理。
+
+其用法为：
+
+foreach (varItem , Items)  // foreach（variable ，container）
+其中，varItem(variable)是容器Items(container)中的一个项，相当于：variable=container.item 。遍历会从头遍历到尾。
+
+如以下代码：
+
+
+QStringList slt = {"abc", "qwe", "upo"};
+foreach(QString s , slt )
+{
+    cout<<s<<endl;
+}
+// 输出结果为：
+abc
+qwe
+upo
+ 
+在C#、Java等语言中，可以直接使用foreach，为语言自带关键字，用法相似。
+
+其中，在C++11标准中，提供了一种新的语句：范围for (range for) 语句。和这里的foreach用法类似。只是这里使用的是 “:” 而不是 “,” 。
+
+其语法形式为：
+
+for (declaration : expression)
+使用时代码如下：（参照foreach代码）
+
+ 
+QStringList slt = {"abc", "qwe", "upo"};
+for(QString s : slt )
+{
+    cout<<s<<endl;
+}
+// 输出结果为：
+abc
+qwe
+upo
+ 

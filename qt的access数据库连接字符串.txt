@@ -1,0 +1,22 @@
+#include <QWidget>
+#include <QTextStream>
+#include <QtDebug>
+#include <QSqlDatabase>
+#include <QStringList>
+#include <QSqlError>
+#include <QSqlIndex>
+#include <QSqlRecord>
+#include <QSqlQuery>
+#include <QVariant>
+#include<QString>
+#include<QListWidgetItem>
+#include<QMessageBox>
+#include<QSqlTableModel>
+
+QSqlDatabase db;
+db=QSqlDatabase::addDatabase("QODBC");
+db.setDatabaseName("DRIVER={Microsoft Access Driver (*.mdb)};FIL={MS Access};DBQ=e:/goods.mdb");
+
+QStringList tables;
+tables=db.tables(QSql::Tables);
+
