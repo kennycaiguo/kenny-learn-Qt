@@ -11,3 +11,4 @@ Ot学习资料
 # <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a>
 # <a href="https://github.com/kennycaiguo/IM-QT">基于qt c++的一个即时通讯软件</a>
 # <a href="https://github.com/kevinlq/Qt-Creator-Opensource-Study">学习下Qt Creator源码，添加自己的注释以便理解</a>
+# <a href="https://github.com/qt-creator/qt-creator">Qt creator官方GitHub仓库</a>
