@@ -7,4 +7,7 @@ Ot学习资料
 # <a href="https://github.com/kennycaiguo/openshot-qt">openshot-qt</a>
 # <a href="https://github.com/kennycaiguo/QtAV">QtAV</a>
 # <a href="https://github.com/kennycaiguo/qt-demo">qt-demo</a>
-# <a href=" "></a>
+# <a href="https://github.com/lesliefish/Qt">Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。</a>
+# <a href="https://github.com/kennycaiguo/PyQt">PyQt Examples（PyQt各种测试和例子） PyQt4 PyQt5</a>
+# <a href="https://github.com/kennycaiguo/IM-QT">基于qt c++的一个即时通讯软件</a>
+# <a href="https://github.com/kevinlq/Qt-Creator-Opensource-Study">学习下Qt Creator源码，添加自己的注释以便理解</a>
