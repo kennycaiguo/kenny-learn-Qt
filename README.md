@@ -12,3 +12,4 @@ Ot学习资料
 # <a href="https://github.com/kennycaiguo/IM-QT">基于qt c++的一个即时通讯软件</a>
 # <a href="https://github.com/kevinlq/Qt-Creator-Opensource-Study">学习下Qt Creator源码，添加自己的注释以便理解</a>
 # <a href="https://github.com/qt-creator/qt-creator">Qt creator官方GitHub仓库</a>
+# <a href="https://github.com/XMuli/QtExamples">Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解；DTK 重绘控件方式的框架解析；IDE 技巧之 Visual Studio / Qt</a>
