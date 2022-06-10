@@ -27,3 +27,4 @@ Youtube: https://www.youtube.com/watch?v=nscgFv4l53w&list=PLUbFnGajtZlXbrbdlraCe
 # <a href="https://github.com/voidrealms/qt6">qt6</a>
 # <a href="https://github.com/voidrealms/Migrating-to-Qt6">Migrating from Qt 5 to Qt 6 on Udemy</a>
 # <a href="https://cta-redirect.hubspot.com/cta/redirect/149513/5fc2bc50-03aa-4b69-ba41-9f5f44a87b91">下载qt6 qmlbook</a>
+# <a href="https://github.com/cwc1987/QmlBook-In-Chinese">QML Book 中文版</a>
