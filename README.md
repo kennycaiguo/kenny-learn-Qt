@@ -13,3 +13,4 @@ Ot学习资料
 # <a href="https://github.com/kevinlq/Qt-Creator-Opensource-Study">学习下Qt Creator源码，添加自己的注释以便理解</a>
 # <a href="https://github.com/qt-creator/qt-creator">Qt creator官方GitHub仓库</a>
 # <a href="https://github.com/XMuli/QtExamples">Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解；DTK 重绘控件方式的框架解析；IDE 技巧之 Visual Studio / Qt</a>
+# <a href="https://github.com/feiyangqingyun/qtkaifajingyan">自己总结的这十年来做Qt开发以来的经验，以及Qt相关武林秘籍电子书</a>
