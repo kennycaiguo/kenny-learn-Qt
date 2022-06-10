@@ -16,3 +16,4 @@ Ot学习资料
 # <a href="https://github.com/XMuli/QtExamples">Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解；DTK 重绘控件方式的框架解析；IDE 技巧之 Visual Studio / Qt</a>
 # <a href="https://github.com/feiyangqingyun/qtkaifajingyan">自己总结的这十年来做Qt开发以来的经验，以及Qt相关武林秘籍电子书</a>
 # <a href="https://gitee.com/havealex/QtResources">QtResources: 关于Qt的一些开发资料，包括电子书、技术博客</a>
+# <a href="https://astraywu.github.io/2019/05/04/Qt%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/">Qt资源汇总</a>
