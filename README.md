@@ -18,3 +18,4 @@ Ot学习资料
 # <a href="https://gitee.com/havealex/QtResources">QtResources: 关于Qt的一些开发资料，包括电子书、技术博客</a>
 # <a href="https://astraywu.github.io/2019/05/04/Qt%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB/">Qt资源汇总</a>
 # <a href="https://gitee.com/feiyangqingyun/QWidgetDemo">Qt编写的一些开源的demo，支持Qt4、Qt5、Qt6，支持任意系统，预计会有100多个</a>
+# <a href="https://blog.csdn.net/wzyaiwl/article/details/115298127">QT——调用Python脚本</a>
