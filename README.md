@@ -20,3 +20,4 @@ Ot学习资料
 # <a href="https://gitee.com/feiyangqingyun/QWidgetDemo">Qt编写的一些开源的demo，支持Qt4、Qt5、Qt6，支持任意系统，预计会有100多个</a>
 # <a href="https://blog.csdn.net/wzyaiwl/article/details/115298127">QT——调用Python脚本</a>
 # <a href="https://github.com/PacktPublishing/Cross-platform-development-with-Qt-6-and-Modern-Cpp">Cross-Platform Development with Qt 6 and Modern C++, published by Packt</a>
+# <a href="https://www.qter.org/">Qt开源社区</a>
