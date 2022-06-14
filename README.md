@@ -21,3 +21,4 @@ Ot学习资料
 # <a href="https://blog.csdn.net/wzyaiwl/article/details/115298127">QT——调用Python脚本</a>
 # <a href="https://github.com/PacktPublishing/Cross-platform-development-with-Qt-6-and-Modern-Cpp">Cross-Platform Development with Qt 6 and Modern C++, published by Packt</a>
 # <a href="https://www.qter.org/">Qt开源社区</a>
+# <a href="https://github.com/JesseTG/awesome-qt">A curated list of awesome tools, libraries, and resources for the Qt framework.</a>
