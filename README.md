@@ -25,3 +25,4 @@ Ot学习资料
 # <a href="https://www.qter.org/">Qt开源社区</a>
 # <a href="https://github.com/JesseTG/awesome-qt">A curated list of awesome tools, libraries, and resources for the Qt framework.</a>
 # <a href="https://github.com/ZhiliangMa/Qt_LearnDemo">学习Qt的demo</a>
+# <a href="https://gitee.com/explore/topic/Qt">qt参考资源</a>
