@@ -1,0 +1,246 @@
+Awesome Qt
+A curated list of links to awesome Qt-related libraries, tools, and other resources published under Free Software/Open Source licenses.
+
+Don’t forget to check the list of essential and add-on modules from the Qt project first! Upcoming modules might be in qt-labs or playground in code.qt.io. And remember that there is Awesome C/C++ for more projects that don’t use Qt.
+
+Other registries / package managers
+Libraries
+Databases
+Event loop dispatchers
+File formats
+Gaming
+Graphics
+Hardware detection and interaction
+Inter process communication
+Multimedia
+Network protocols and web services
+Other programming languages
+Threading and asynchronous programming
+User Interface
+Web frameworks
+Miscellany
+Tools
+Examples or proof of concepts
+Off topic
+Other registries / package managers
+There are other projects that aim to provide not only an entry point to find other Qt libraries, but also a tool to download and configure them.
+
+http://inqlude.org/
+A large list of Qt libraries, categorized by maturity level and license. Is the oldest and largest archive of Qt projects. A project from the KDE community.
+
+https://www.qpm.io/
+A package manager for Qt, from the Cutehacks developers. Is the youngest project, but features the best command line tool to install packages.
+
+http://www.qt-pods.org/
+Inspired by the Cocoa pods project, a package manager with even a GUI interface based on git submodules.
+
+Libraries
+Databases
+https://github.com/KDAB/sqlate
+Compile-time checked type-safe access to SQL databases using C++ templates. Allows you to get rid of string-based SQL queries in your Qt application.
+
+Event loop dispatchers
+https://github.com/sjinks/qt_eventdispatcher_epoll
+epoll-based event dispatcher
+
+https://github.com/connectedtable/qeventdispatcher_epoll
+epoll event dispatcher
+
+https://github.com/sjinks/qt_eventdispatcher_libevent
+libevent-based event dispatcher
+
+https://github.com/sjinks/qt_eventdispatcher_libev
+libev-based event dispatcher
+
+https://github.com/svalaskevicius/qt-event-dispatcher-libuv
+libuv event dispatcher
+
+File formats
+http://api.kde.org/frameworks-api/frameworks5-apidocs/karchive/html/
+Provides classes for easy reading, creation and manipulation of "archive" formats like ZIP and TAR. It also provides transparent compression and decompression of data, like the GZip format, via a subclass of QIODevice.
+
+https://github.com/flavio/qjson
+Library that maps JSON data to QVariant objects. Supports Qt 4.
+
+https://github.com/gaudecker/qt-json
+A simple class for parsing JSON data into a QVariant hierarchy and vice versa. Supports Qt 4.
+
+Gaming
+https://github.com/Bacon2D/Bacon2D
+Framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games. Starting with the top-level Game container, which provides a game loop and Scene management, all the way down to entities with Box2D physics and parallax layers with infinite scrolling.
+
+https://github.com/qml-box2d/qml-box2d
+Box2D plugin for QML. The goal is to expose the functionality of Box2D as QML components, in order to make it easy to write physics based games in QML.
+
+http://v-play.net/
+Allows easy cross-platform mobile game development for all major platforms including iOS, Android, BlackBerry.
+
+Graphics
+http://www.kdab.com/kd-reports/
+Lets you easily create printable reports by providing all of the necessary features for a variety of applications. Reports can be created programmatically, using an easy to use C++ API, or they can be data-driven, creating reports from XML or SQL data sources complete with watermarks, headers and footers. Reports can be previewed manually, sent directly to a printer, or saved as PDF files.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kimageformats/html/
+Provides additional image format plugins for QtGui. Read support for: Gimp (xcf), OpenEXR (exr), Photoshop documents (psd), Sun Raster (ras). Write support for: Encapsulated PostScript (eps), Personal Computer Exchange (pcx), SGI images (rgb, rgba, sgi, bw), Softimage PIC (pic), Targa (tga), XView (xv).
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kplotting/html/
+A lightweight and easy to use plot widget.
+
+https://github.com/gamecreature/QtAwesome
+Library for using Font Awesome or other icon sets based on font files.
+
+http://qwt.sourceforge.net/
+Qt Widgets for Technical Applications. Contains GUI Components and utility classes which are primarily useful for programs with a technical background. Beside a framework for 2D plots it provides scales, sliders, dials, compasses, thermometers, wheels and knobs to control or display values, arrays, or ranges of type double.
+
+Hardware detection and interaction
+http://api.kde.org/frameworks-api/frameworks5-apidocs/bluez-qt/html/
+BluezQt is a library for communication with the BlueZ system and session daemons.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/solid/html/
+A device integration framework. It provides a way of querying and interacting with hardware independently of the underlying operating system. It provides the following features for application developers: Hardware Discovery, Power Management, and Network Management.
+
+Inter process communication
+Multimedia
+http://www.qtav.org/
+QtAV is a multimedia playback library based on Qt and FFmpeg. Supports Android, iOS and desktops.
+
+https://vlc-qt.tano.si/
+Contains core classes for main media playback and some GUI classes for faster media player developement.
+
+Network protocols and web services
+http://communi.github.io/
+A cross-platform IRC framework. Provides a set of tools for enabling IRC connectivity in Qt-based C++ and QML applications.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kdnssd/html/
+Library for handling the DNS-based Service Discovery Protocol (DNS-SD), the layer of Zeroconf that allows network services, such as printers, to be discovered without any user intervention or centralized infrastructure.
+
+https://github.com/wiedi/libmaia
+XML-RPC library.
+
+https://github.com/Cutehacks/qml-pusher: QML bindings for the Pusher.com service.
+
+https://github.com/qxmpp-project/qxmpp: XMPP client and server library. QXmpp strives to be as easy to use as possible: the underlying TCP socket, the core XMPP RFCs (RFC3920 and RFC3921) and XMPP extensions have been nicely encapsulated into classes. QXmpp comes with full API documentation, automatic tests and many examples.
+
+Other programming languages
+https://github.com/seanchas116/libqmlbind
+A C library for easily creating QML bindings for other languages by exporting objects to QML. In use in ruby-qml.
+
+https://github.com/trollixx/node.qml
+Node.js compatibility layer to QML applications. Potentially, QML applications should be able to use majority of Node.js libraries.
+
+http://www.riverbankcomputing.com/software/pyqt/
+A set of Python 2 and Python 3 bindings for Qt and runs on all platforms supported by Qt including Windows, OS X and Linux. PyQt5 supports Qt 5.
+
+http://thp.io/2011/pyotherside/
+Asynchronous Python 3 Bindings for Qt 5. This is a QML Plugin that provides access to a Python 3 interpreter from QML.
+
+https://wiki.qt.io/Category:LanguageBindings::PySide
+Provides LGPL-licensed Python bindings for Qt. It also includes a complete toolchain for rapidly generating bindings for any Qt-based C++ class hierarchy.
+
+http://sourceforge.net/projects/pythonqt/
+Embeds Python in a Qt application, making classes based in QObject accessible to the scripted language language.
+
+https://github.com/svalaskevicius/qtjs-generator
+Qt API bindings generator for Node.js. Exposes the Qt API to JavaScript, running in an integrated event loop inside Node.js.
+
+http://seanchas116.github.io/ruby-qml/
+Bindings between Ruby and QML. Enables you to write Qt Quick GUIs in Ruby.
+
+Threading and asynchronous programming
+http://api.kde.org/frameworks-api/frameworks5-apidocs/threadweaver/html/
+Helper for multithreaded programming. It uses a job-based interface to queue tasks and execute them in an efficient way. You simply divide the workload into jobs, state the dependencies between the jobs and ThreadWeaver will work out the most efficient way of dividing the work between threads within a set of resource limits.
+
+User Interface
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kguiaddons/html/
+Utilities for graphical user interfaces in the areas of colors, fonts, text, images, keyboard input.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kitemmodels/html/
+A set of extra item models for the model-view framework.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kitemviews/html/
+Includes a set of views, which can be used with item models. It includes views for categorizing lists and to add search filters to flat and hierarchical lists.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kwidgetsaddons/html/
+Action classes that can be added to toolbars or menus, a wide range of widgets for selecting characters, fonts, colors, actions, dates and times, or MIME types, as well as platform-aware dialogs for configuration pages, message boxes, and password requests.
+
+https://github.com/mikemcquaid/Qocoa
+Wrappers for OS X Cocoa widgets. MIT license.
+
+https://github.com/shadone/qtmacgoodies
+Additional widgets/objects to make applications look more native on Mac OS X, like MacPreferencesWindow, MacStandardIcon or MacWindow.
+
+https://github.com/cybercatalyst/qtsystemtrayiconmac
+Extended QSystemTrayIcon for Mac OS X.
+
+Web frameworks
+http://cutelyst.org/
+MVC web framework inspired in Perl’s Catalyst.
+
+https://github.com/jlaine/qdjango/
+QDjango is a web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django’s API, hence its name.
+
+http://www.treefrogframework.org/
+High-speed and full-stack web application framework based on C++ and Qt, which supports HTTP and WebSocket protocol. Web applications can run faster than that of lightweight programming language. In application development, it provides an O/R mapping system and template system on an MVC architecture, aims to achieve high productivity through the policy of convention over configuration.
+
+https://github.com/vinipsmaker/tufao
+Tufão is a web framework for C++ that makes use of Qt’s object communication system (signals & slots).
+
+Miscellany
+https://github.com/sergey-shambir/breakpad-qt
+Cross-platform crash handler, implemented as wrapper around google-breakpad.
+
+https://github.com/dschmidt/libcrashreporter-qt
+Provides an easy integration of Google Breakpad crash reporting into a Qt application.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kconfig/html/
+Provides an advanced configuration system. The core provides access to the files, with a code generation system to have type safe access to the configuration, which features cascading files (global versus local), shell expansion, and locking down options. The GUI provides a way to hook widgets to the configuration so that they are automatically initialized from the configuration and automatically propagate their changes to their respective configuration files.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kcoreaddons/html/
+Support classes for manipulating mime types, autosaving files, creating backup files, generating random sequences, performing text manipulations such as macro replacement, accessing user information and more.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/ki18n/html/
+Provides functionality for internationalizing user interface text in applications, based on the GNU Gettext translation system. It wraps the standard Gettext functionality, so that the programmers and translators can use the familiar Gettext tools and workflows. KI18n provides additional functionality: argument capturing, customizable markup, and translation scripting.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/kidletime/html/
+Reports information on idle time. It is useful not only for finding out about the current idle time of the PC, but also for getting notified upon idle time events, such as custom timeouts, or user activity
+
+https://github.com/Roxee/qt-roxeemegaup/
+Wrapper around Sparkle and WinSparkle.
+
+https://github.com/Roxee/qt-roxeeplatipus
+A collection of helpers and additional functionalities for Qt (media key support, OS X remote control, fullscreen native window hack).
+
+https://github.com/Roxee/qt-roxeesinapp
+An up to date QtSingleApplication fork.
+
+https://github.com/VerbalExpressions/QtVerbalExpressions
+Regular Expressions made easy. Match and replace in strings with an easy to use API.
+
+http://api.kde.org/frameworks-api/frameworks5-apidocs/sonnet/html/
+Plugin-based spell checking library for Qt-based applications. It supports several different plugins, including HSpell, Enchant, ASpell and HUNSPELL. It also supports automated language detection, based on a combination of different algorithms.
+
+Tools
+https://github.com/sletta/dqml
+A simple live coding environment for QML. It will track the directory where a QML file is located and continuously update the view where it is located. Supports pushing files to a remote system which will reload the received files.
+
+https://github.com/KDAB/GammaRay
+GammaRay is a tool to poke around in a Qt-application and also to manipulate the application to some extent.
+
+https://github.com/Pelagicore/qmllive
+A live coding environment for QML. Allows to reload your QML view when a file in your project changes. This can be done on the same device using the QmlLiveBench or on a remote device using the QmlLiveRuntime.
+
+https://github.com/robertknight/Qt-Inspector
+Utility to browse the Qt object tree of a running Qt application and edit object properties on the fly
+
+Examples or proof of concepts
+These might be applications or libraries that might not be ready to use, but can be considered like the examples and demos provided with the Qt modules.
+
+https://github.com/Cutehacks/qtgcm
+An example of using push notifications in a Qt application.
+
+Off topic
+Stuff that might not integrate at all with Qt’s types, API, event loop, etc., but still an application built with Qt can leverage it well enough because it is cross platform native code that fulfills a common use case of the typical Qt applications.
+https://github.com/Mendeley/breakpad
+This is a fork of Google Breakpad, a multi-platform crash reporting system, which is used by Mendeley Desktop under Windows, Mac and Linux.
+
+https://github.com/Mendeley/Update-Installer
+Small cross-platform software update installer.
