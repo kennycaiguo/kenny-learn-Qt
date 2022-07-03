@@ -29,4 +29,5 @@ Ot学习资料
 # <a href="https://github.com/smurf28/ChessGame">基于qt编写的五子棋和围棋游戏</a>
 # <a href="https://github.com/XMuli/ChineseChess">game based on Qt: Chinese Chess. Also known as:『Xiangqi』『中国象棋』</a>
 # <a href="https://github.com/jingzhe/youtube_downloader">youtube downloader made by Qt</a>
-# <a href="https://github.com/grgvineet/ParaTube">A multi threaded GUI YouTube downloader</a>  
+# <a href="https://github.com/grgvineet/ParaTube">A multi threaded GUI YouTube downloader</a> 
+# <a href="https://github.com/Yisus7u7/dl-music-qt">Simple music downloader for youtube made in Qt</a>
