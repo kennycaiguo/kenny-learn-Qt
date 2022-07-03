@@ -31,3 +31,4 @@ Ot学习资料
 # <a href="https://github.com/jingzhe/youtube_downloader">youtube downloader made by Qt</a>
 # <a href="https://github.com/grgvineet/ParaTube">A multi threaded GUI YouTube downloader</a> 
 # <a href="https://github.com/Yisus7u7/dl-music-qt">Simple music downloader for youtube made in Qt</a>
+# <a href="https://github.com/eggfault/thunderbird">Top-down shooter game written in C++ w/ Qt for my CSCI102 final project</a>
