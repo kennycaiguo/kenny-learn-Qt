@@ -35,3 +35,4 @@ Ot学习资料
 # <a href="https://github.com/zxh1986123/QT5-Development-and-examples">QT5开发及实例书的光盘内容</a>
 # <a href="https://github.com/PacktPublishing/Mastering-Qt-5-Second-Editon">Mastering-Qt-5-Second-Editon源代码</a>
 # <a href="https://github.com/github-jxm/Advanced_Qt_Programming">Qt 高级编程 Advanced Qt Programming源码</a>
+# <a href="https://github.com/PacktPublishing/Hands-On-GUI-Programming-with-CPP-and-Qt5">Hands-On-GUI-Programming-with-CPP-and-Qt5源码</a>
