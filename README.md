@@ -33,3 +33,4 @@ Ot学习资料
 # <a href="https://github.com/Yisus7u7/dl-music-qt">Simple music downloader for youtube made in Qt</a>
 # <a href="https://github.com/eggfault/thunderbird">Top-down shooter game written in C++ w/ Qt for my CSCI102 final project</a>
 # <a href="https://github.com/zxh1986123/QT5-Development-and-examples">QT5开发及实例书的光盘内容</a>
+# <a href="https://github.com/PacktPublishing/Mastering-Qt-5-Second-Editon">Mastering-Qt-5-Second-Editon源代码</a>
