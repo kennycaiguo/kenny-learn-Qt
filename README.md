@@ -1,6 +1,7 @@
 # Qt
 Ot学习资料
 # <a href="https://blog.csdn.net/zong596568821xp/article/details/78820144">Qt lnk1158 无法运行rc.exe 解决方法</a>
+# <a href="https://github.com/XiaoTianWork/Qt5-StudyNote">t5开发及实例（第3版） 陆文周 </a>
 # <a href="https://github.com/metanoia1989/QTStudy">学习QT的写的代码</a>
 # <a href="https://github.com/qmlbook/qmlbook">qml葵花宝典源码</a>
 # <a href="https://github.com/lesliefish/Qt">Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。</a>
