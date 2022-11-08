@@ -42,7 +42,7 @@ Ot学习资料
 # <a href="https://github.com/lichangke/QT">QT基础与实例应用，基于书籍 QT5开发及实例 第4版</a>
 # <a href="https://github.com/XMuli/QtExamples">Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解</a>
 # <a href="https://github.com/ccf19881030/QtResources">关于Qt的一些开发资料，包括电子书、技术博客、开发技巧等的收集和总结github</a>
-# <a href=""></a>
+# <a href="https://github.com/Arvin723/Qt-weiqi">Qt围棋</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
