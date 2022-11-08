@@ -26,7 +26,7 @@ Ot学习资料
 # <a href="https://www.qter.org/">Qt开源社区</a>
 # <a href="https://github.com/JesseTG/awesome-qt">A curated list of awesome tools, libraries, and resources for the Qt framework.</a>
 # <a href="https://github.com/ZhiliangMa/Qt_LearnDemo">学习Qt的demo</a>
-# <a href="https://gitee.com/explore/topic/Qt">qt参考资源</a>
+# <a href="https://gitee.com/explore/topic/Qt">qt参考资源gitee</a>
 # <a href="https://github.com/smurf28/ChessGame">基于qt编写的五子棋和围棋游戏</a>
 # <a href="https://github.com/XMuli/ChineseChess">game based on Qt: Chinese Chess. Also known as:『Xiangqi』『中国象棋』</a>
 # <a href="https://github.com/jingzhe/youtube_downloader">youtube downloader made by Qt</a>
@@ -39,7 +39,7 @@ Ot学习资料
 # <a href="https://github.com/PacktPublishing/Hands-On-GUI-Programming-with-CPP-and-Qt5">Hands-On-GUI-Programming-with-CPP-and-Qt5源码</a>
 # <a href="https://github.com/lichangke/QT">QT基础与实例应用，基于书籍 QT5开发及实例 第4版</a>
 # <a href="https://github.com/XMuli/QtExamples">Qt 之 GUI 控件使用 / 网络 / 架构原理 / 运行机制理解</a>
-# <a href=""></a>
+# <a href="https://github.com/ccf19881030/QtResources">关于Qt的一些开发资料，包括电子书、技术博客、开发技巧等的收集和总结github</a>
 # <a href=""></a>
 # <a href=""></a>
 # <a href=""></a>
