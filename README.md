@@ -1,4 +1,6 @@
 # Qt
+## Qt安装注意: qt5.15以上的版本可能会有问题,安装好项目无法通过编译,所以我现在qt5.14,可以到这个网站下载离线安装版本
+https://download.qt.io/archive/qt/5.14/5.14.0/
 Ot学习资料
 # <a href="https://blog.csdn.net/zong596568821xp/article/details/78820144">Qt lnk1158 无法运行rc.exe 解决方法</a>
 # <a href="https://cloud.tencent.com/developer/article/1879178">Qt 资料大全</a>
