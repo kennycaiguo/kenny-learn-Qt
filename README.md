@@ -1,7 +1,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41MTGJW)
 # Qt
 ## Qt安装注意: qt5.15以上的版本可能会有问题,安装好项目无法通过编译,所以我现在qt5.14,可以到这个网站下载离线安装版本
-https://download.qt.io/archive/qt/5.14/5.14.0/ <br>
+https://download.qt.io/archive/qt/5.14/5.14.0/ <br><br><br>
 Ot学习资料
 # <a href="https://github.com/kennycaiguo/kenny-learn-qml-qtquick">学习QtQuick和Qml,kenny的GitHub仓库</a>
 # <a href="https://blog.csdn.net/zong596568821xp/article/details/78820144">Qt lnk1158 无法运行rc.exe 解决方法</a>
